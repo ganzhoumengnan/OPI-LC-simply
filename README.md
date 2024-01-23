@@ -15,6 +15,8 @@ PostgreSQL下载地址：https://www.enterprisedb.com/downloads/postgres-postgre
 ![image](https://github.com/ganzhoumengnan/OPI-LC-simply/assets/109869629/523a3d22-d15e-4238-a083-033e1c610ba4)   
 
 # step 3
+去https://github.com/ganzhoumengnan/OPI-LC-simply/blob/main/main.py  
+下载main.py
 把main.py文件放到解压后的OPI-LC/brc20/sqlite目录  
 如图  
 ![image](https://github.com/ganzhoumengnan/OPI-LC-simply/assets/109869629/059d9de6-51bc-44bc-9f7d-c9fc0ac58dcd)   
