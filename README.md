@@ -1,6 +1,11 @@
 # OPI-LC-simply
 Quickly and easily build OPI-LC
 一键搭建OPI轻节点
+要是看不懂直接下载  
+![image](https://github.com/ganzhoumengnan/OPI-LC-simply/assets/109869629/b370b92f-2062-4716-9f41-e772c202a80f)  
+解压  
+省略step2 step3
+
 
 # step 1
 下载python和PostgreSQL  
