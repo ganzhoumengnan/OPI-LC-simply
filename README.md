@@ -9,7 +9,8 @@ python下载地址（适用于windows64位）：https://www.python.org/ftp/pytho
 PostgreSQL下载地址：https://www.enterprisedb.com/downloads/postgres-postgresql-downloads   
 
 # step 2
-下载https://github.com/bestinslot-xyz/OPI-LC并解压  
+下载https://github.com/bestinslot-xyz/OPI-LC  
+并解压  
 如图  
 ![image](https://github.com/ganzhoumengnan/OPI-LC-simply/assets/109869629/523a3d22-d15e-4238-a083-033e1c610ba4)   
 
